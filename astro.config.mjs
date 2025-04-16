@@ -13,7 +13,7 @@ export default defineConfig({
 			},
 		},
 	},
-	site: "https://mintaka.co",
+	site: "https://inenilla.github.io",
 	i18n: {
 		defaultLocale: "en",
 		locales: ["en", "it"],
